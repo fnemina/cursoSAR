@@ -1,20 +1,23 @@
-\documentclass[a4paper,12pt]{report}
-\input{preamble.tex}
+\documentclass[12pt]{report}
+\input{../preamble.tex}
 \usepackage{float}
-%\includeonly{guia3}
+\includeonly{apendice1}
 \graphicspath{{../figs/}}
 % Renombro lo capitulos
 \addto\captionsspanish{\renewcommand{\chaptername}{Clase}}
 
 \title{{\large Nivel 2} \\ Introducción a la teledetección SAR}
-\author[*]{Francisco Nemiña\thanks{fnemina@conae.gov.ar}}
+\author[*]{Francisco Nemiña}
 
 \author[**]{Tomas Zajc}
 
 %\author[**]{Laura Rouco}
 
-\affil[*]{Unidad de Educación y Formación Masiva \\ Comisión Nacional de Actividades Espaciales}
-\affil[**]{Misión SAOCOM \\ Comisión Nacional de Actividades Espaciales}
+\affil[*]{Unidad de Educación y Formación Masiva}
+\affil[**]{Misión SAOCOM}
+
+\titlepic{\vfill \includegraphics[height=1.5cm]{../figs/logo-ministerio.png}\hfill\includegraphics[height=1.5cm]{../figs/logo-conae.png}}
+
 
 \date{}
 \begin{document}
@@ -23,7 +26,9 @@
 %\titlepage
 %\tableofcontents
 %\include{prefacio}
-
+\addtolength{\voffset}{-2cm}
+\addtolength{\headsep}{0.5cm}
+\addtolength{\textheight}{1cm}
 %\mainmatter
 \include{guia1}
 \include{guia2}

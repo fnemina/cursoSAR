@@ -1,8 +1,8 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2019.10.18)  27 NOV 2019 15:36
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2019.10.18)  28 NOV 2019 12:31
  restricted system commands enabled.
  file:line:error style messages enabled.
-**/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.tex
-(/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.tex
+**/home/fnemina/Documents/uefm/cursoSAR/programa/programa.tex
+(/home/fnemina/Documents/uefm/cursoSAR/programa/programa.tex
 LaTeX2e <2018-12-01>
 Lua module: luaotfload-main 2019-05-18 2.97 luaotfload entry point
 Lua module: luaotfload-init 2019-05-18 2.97 luaotfload submodule / initialization
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.054 seconds
+luaotfload | main : initialization completed in 0.056 seconds
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -51,7 +51,7 @@ luaotfload | db : Font names database loaded from /home/fnemina/.texlive2019/tex
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/home/fnemina/Documents/uefm/cursoOceanColor/programa/../preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/home/fnemina/Documents/uefm/cursoSAR/programa/../preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 
@@ -366,6 +366,12 @@ File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 \Hy@SavedSpaceFactor=\count112
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4519.
 Package hyperref Info: Link nesting OFF on input line 4524.
@@ -1045,7 +1051,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box69
 \enit@count@id=\count381
 \enitdp@description=\count382
-) (/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.aux
+) (/home/fnemina/Documents/uefm/cursoSAR/programa/programa.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
@@ -1066,6 +1072,8 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
@@ -1141,7 +1149,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
- (/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.out) (/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.out)
+ (/home/fnemina/Documents/uefm/cursoSAR/programa/programa.out) (/home/fnemina/Documents/uefm/cursoSAR/programa/programa.out)
 \@outlinefile=\write4
 
 \openout4 = programa.out
@@ -1177,12 +1185,14 @@ Make it at least 45.79778pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[1
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-pdfdoc.def
+File: se-pdfdoc.def 2016/05/16 v1.11 stringenc: PDFDocEncoding
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<../figs/logo-ministerio.png><../figs/logo-conae.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
- (/home/fnemina/Documents/uefm/cursoOceanColor/programa/programa.aux
+ (/home/fnemina/Documents/uefm/cursoSAR/programa/programa.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
@@ -1193,16 +1203,16 @@ Package rerunfilecheck Info: File `programa.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35959 strings out of 494291
- 125171,794899 words of node,token memory allocated
+ 39492 strings out of 494291
+ 125171,953878 words of node,token memory allocated
  1096 words of node memory still in use:
    23 hlist, 2 vlist, 10 rule, 1 dir, 2 glue, 4 kern, 1 glyph, 61 attribute, 63 glue_spec, 57 attribute_list, 2 write, 16 pdf_literal, 16 pdf_colorstack nodes
-   avail lists: 1:5,2:472,3:89,4:29,5:135,6:22,7:2546,8:9,9:142,10:9,11:354
- 39056 multiletter control sequences out of 65536+600000
+   avail lists: 1:4,2:469,3:89,4:29,5:135,6:22,7:2545,8:9,9:142,10:9,11:354
+ 42566 multiletter control sequences out of 65536+600000
  30 fonts using 6208647 bytes
- 57i,15n,85p,1141b,466s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 57i,15n,85p,1134b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman12-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf>
-Output written on programa.pdf (1 page, 608722 bytes).
+Output written on programa.pdf (1 page, 608718 bytes).
 
 PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream

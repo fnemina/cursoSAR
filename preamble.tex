@@ -20,7 +20,7 @@
 % Links a urls
 \usepackage{url}
 % Linkear referencias en pdfs
-\usepackage{hyperref}
+\usepackage[pdfencoding=auto]{hyperref}
 % Texto mas lindo para los pie de figura
 \usepackage[margin=10pt,font=small,labelfont=bf, labelsep=endash]{caption}
 % Mejores autores
@@ -70,7 +70,7 @@
 % Posibilidad de tocar los encabezados
 \definecolor{azul-conae}{HTML}{006699}
 \usepackage{fancyhdr}
-\pagestyle{fancy}
+\pagestyle{fancyplain}
 
 %\setlength\headheight{30pt} 
 \setlength{\headheight}{30pt}
@@ -83,17 +83,17 @@
 \color{azul-conae}\leaders\hrule height \headrulewidth\hfill}}
   \renewcommand{\footrulewidth}{0pt}% No footer rule
 
-\fancypagestyle{plain}{%
-\setlength{\headheight}{30pt}
-\vskip-2.0cm
-\rhead{\includegraphics[height=1.2cm]{../figs/logo-conae.png}}
-\lhead{\includegraphics[height=1.2cm]{../figs/logo-ministerio.png}}
+% \fancypagestyle{plain}{%
+% \setlength{\headheight}{30pt}
+% \vskip-2.0cm
+% \rhead{\includegraphics[height=1.2cm]{../figs/logo-conae.png}}
+% \lhead{\includegraphics[height=1.2cm]{../figs/logo-ministerio.png}}
 
-\renewcommand{\headrulewidth}{2pt}% 2pt header rule
-  \renewcommand{\headrule}{\vskip-0.1cm\hskip-2.54cm \hbox to\pagewidth{%
-\color{azul-conae}\leaders\hrule height \headrulewidth\hfill}}
-  \renewcommand{\footrulewidth}{0pt}% No footer rule
-}
+% \renewcommand{\headrulewidth}{2pt}% 2pt header rule
+%   \renewcommand{\headrule}{\vskip-0.1cm\hskip-2.54cm \hbox to\pagewidth{%
+% \color{azul-conae}\leaders\hrule height \headrulewidth\hfill}}
+%   \renewcommand{\footrulewidth}{0pt}% No footer rule
+% }
 
 \newdateformat{mydate}{\THEDAY\ de \shortmonthname[\THEMONTH]}
 \renewcommand\AdvanceDate[1][\@ne]{\global\advance\day#1 \FixDate}
