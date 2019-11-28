@@ -1,0 +1,20 @@
+# Fdb version 3
+["lualatex"] 1574949408 "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.tex" "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.pdf" "guia" 1574949408
+  "/home/fnemina/.texlive2019/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc" 1573581019 123457 99d1c05c11b4908dda13daf8bb621a06 ""
+  "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.aux" 1574949408 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.tex" 1574949406 837 9f7a089e6fab061cabf1faea2b29b6df ""
+  "/home/fnemina/Documents/uefm/cursoSAR/practica/preamble.tex" 0 -1 0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/report.cls" 1544567569 22992 ac205d2578ad3f18cf73b50579632d1c ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1544567569 8305 6a682ae291edd56e2d7accbf95eca451 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-basic-merged.lua" 1558301197 128375 0c367a85dad7d915daef610b8e8e431a ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua" 1558301197 2722 14a9cda92380eed2f9d7a5daaf156212 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-compat.lua" 1367794330 603 398583cb619d20952d67edcedae41608 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua" 1558301197 100852 acb05bbdce1617ea0c88dacac3aed407 ""
+  "/usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua" 1558301197 4863 1c5fd05926923129d9ad5b0a4d25ee12 ""
+  "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1571418318 1382401 f04854a98d1da21a6a6a5acf32c33eb1 ""
+  "guia.tex" 1574949406 837 9f7a089e6fab061cabf1faea2b29b6df ""
+  "preamble.tex" 0 -1 0 ""
+  (generated)
+  "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.log"
+  "/home/fnemina/Documents/uefm/cursoSAR/practica/guia.pdf"
+  "guia.log"

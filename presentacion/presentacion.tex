@@ -1,0 +1,39 @@
+\documentclass[aspectratio=169,hyperref={pdfencoding=auto}]{beamer}
+%\usepackage{pgfpages}
+%\pgfpagesuselayout{4 on 1}[a4paper,border shrink=5mm]
+\usetheme[]{conae}
+\usepackage{animate}
+\input{preamble.tex}
+\usepackage{multimedia}
+\usepackage{subfig}
+\includeonly{clase5}
+\title{Introducción a la teledetección SAR}
+\author{Francisco Nemiña y Tomás Zajc}
+\email{fnemina@conae.gov.ar}
+\place{Buenos Aires, Argentina}
+%\logoext{./logos/logo-ext.png}
+
+\date{Abril de 2019}
+\graphicspath{{../figs/}}
+
+\begin{document}
+
+{
+\setbeamertemplate{footline}{}
+\begin{frame}[noframenumbering]
+  \titlepage
+\end{frame}
+}
+
+%\begin{frame}{Esquema de la presentación}
+%  \setbeamertemplate{section in toc}[sections numbered]
+%  \tableofcontents[hideallsubsections]
+%\end{frame}
+
+\include{clase1}
+\include{clase2}
+\include{clase3}
+\include{clase4}
+\include{clase5}
+
+\end{document}
